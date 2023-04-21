@@ -1,4 +1,4 @@
-﻿生成启动时间为 2023/4/20 17:28:57。
+﻿生成启动时间为 2023/4/21 10:33:33。
      1>项目“E:\GitProject\calculator\test\Calculator\Calculator\Calculator.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\A_worktool\vs2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\A_worktool\QT\qt\5.5\msvc2013\include /I.\GeneratedFiles\Debug /ID:\A_worktool\QT\qt\5.5\msvc2013\include\QtCore /ID:\A_worktool\QT\qt\5.5\msvc2013\include\QtGui /ID:\A_worktool\QT\qt\5.5\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt calculator.cpp
@@ -13,4 +13,4 @@
 
 生成成功。
 
-已用时间 00:00:01.17
+已用时间 00:00:01.29
